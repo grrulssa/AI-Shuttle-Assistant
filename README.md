@@ -39,6 +39,8 @@ AgenticRide is an AI-powered shuttle bus management system developed by Team AZ2
 
 ## 🛠️ Technical Stack
 
+<img width="754" alt="image" src="https://github.com/user-attachments/assets/7d01db47-f15c-4968-952e-c7cd7529e41e" />
+
 ### Frontend
 
 - React with TypeScript
